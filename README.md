@@ -4,11 +4,11 @@ A bash program to kill/crash the system it is running on
 You can crash the system by :
 
 * Fork Bomb
-* Enducing Kernel Panic
+* Inducing Kernel Panic
 * Overwriting MBR
 * Replacing random process's data
 * Clean your Hard-Disk (Completely)
-* Encurring the wrath of exec
+* Incurring the wrath of exec
 
 ## Installation
 
