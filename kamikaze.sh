@@ -93,8 +93,7 @@ remind(){
 	echo -e "\e[1;97;101mYou Should Not Exit like this, to exit enter 99 on the next screen\e[1;92;49m"
 	echo ""
 	echo ""
-	echo "Press Enter"
-	read j
+	read -p "PRESS THE [ENTER] KEY..."
 	mainmenu
 }
 splash
